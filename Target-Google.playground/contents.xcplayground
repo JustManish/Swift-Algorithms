@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='Array'/>
+        <page name='Strings'/>
+        <page name='Sliding-Window'/>
+        <page name='Binary Search'/>
+        <page name='Heap'/>
+        <page name='Hash Table'/>
+        <page name='Dynamic Programming'/>
+        <page name='Graph'/>
+        <page name='Union-Find'/>
+        <page name='Tree'/>
+        <page name='Graph-Practice'/>
+        <page name='Weighted-Graph'/>
+        <page name='HashMap-Practice'/>
+        <page name='Prims and Kruskal'/>
+        <page name='Quick-Sort'/>
+        <page name='Untitled Page'/>
+        <page name='Insertion-Sort'/>
+        <page name='Merge-Sort'/>
+        <page name='Binary Search Trees'/>
+        <page name='Let&apos;s-Write-Code'/>
+        <page name='Greedy-Algorithm'/>
+        <page name='Swift-Brushup&apos;s'/>
+        <page name='Topological-Sort'/>
+    </pages>
+</playground>
